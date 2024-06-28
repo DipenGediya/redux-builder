@@ -1,0 +1,62 @@
+{
+  "product": [
+    {
+      "id": "a299",
+      "isActive": true,
+      "image": "https://m.media-amazon.com/images/I/61AHiYyu3ZL._AC_UL320_.jpg",
+      "name": "Fire-Boltt",
+      "price": "1100",
+      "disc": "Fire-Boltt Ninja Call Pro Plus 1.83\" Smart Watch with Bluetooth Calling..."
+    },
+    {
+      "id": "7788",
+      "isActive": true,
+      "image": "https://m.media-amazon.com/images/I/61DZclqQ4RL._AC_UL320_.jpg",
+      "name": "boAt",
+      "price": "1300",
+      "disc": "boAt Wave Lite Smart Watch with 1.69\" HD Display, Sleek Metal Body,..."
+    },
+    {
+      "id": "df6f",
+      "isActive": true,
+      "image": "https://m.media-amazon.com/images/I/51oMWaW7tKL._AC_UL320_.jpg",
+      "name": "OnePlus Nord Buds",
+      "price": "1645",
+      "disc": "OnePlus Nord Buds 2r True Wireless in Ear Earbuds with Mic, 12.4mm Drivers..."
+    },
+    {
+      "id": "cb9f",
+      "isActive": true,
+      "image": "https://m.media-amazon.com/images/I/61afkty1foL._AC_UL320_.jpg",
+      "name": "Samsung Galaxy Tab",
+      "price": "21000",
+      "disc": "Samsung Galaxy Tab A9+ 27.94 cm (11.0 inch) Display..."
+    },
+    {
+      "id": "216c",
+      "isActive": true,
+      "image": "https://m.media-amazon.com/images/I/61fuRbFah0L._AC_UL320_.jpg",
+      "name": "DELL",
+      "price": "56800",
+      "disc": "DELL Victus Gaming Laptop, AMD Ryzen 5 5600H, 4GB RTX 3050 GPU, 15.6-inch..."
+    }
+  ],
+  "cart": [
+    {
+      "id": "a299",
+      "isActive": true,
+      "image": "https://m.media-amazon.com/images/I/61AHiYyu3ZL._AC_UL320_.jpg",
+      "name": "Fire-Boltt",
+      "price": "1100",
+      "disc": "Fire-Boltt Ninja Call Pro Plus 1.83\" Smart Watch with Bluetooth Calling..."
+    },
+    {
+      "id": "216c",
+      "isActive": true,
+      "image": "https://m.media-amazon.com/images/I/61fuRbFah0L._AC_UL320_.jpg",
+      "name": "DELL",
+      "price": "56800",
+      "disc": "DELL Victus Gaming Laptop, AMD Ryzen 5 5600H, 4GB RTX 3050 GPU, 15.6-inch..."
+    }
+  ]
+}
